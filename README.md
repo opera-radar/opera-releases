@@ -3,6 +3,6 @@ This repository includes information about the past and coming releases. It has 
 
 ## OPERA releases
 
-* 2024b November 7th, 2024
+* [2024b November 7th, 2024](release-notes/OPERA_Release_2024b.md)
 * 2025b, November 18th, 2025
 * 2026a, planned June 2026
