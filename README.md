@@ -5,4 +5,4 @@ This repository includes information about the past and coming releases. It has 
 
 * [2024b November 7th, 2024](release-notes/OPERA_Release_2024b.md)
 * [2025b, November 18th, 2025](release-notes/OPERA_release_notes_20251118.pdf)
-* 2026a, planned June 2026
+* [2026a, June 23rd, 2026](release-notes/OPERA_release_notes_20260617.pdf)
